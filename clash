@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-03-22 11:33:27
+# 创建时间：2024-03-22 22:59:48
 # 使用模版：V2RaySE 默认模版
 # 节点数量：1
 ####################################
@@ -86,46 +86,46 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"worker-curly-union-5dbc.firefox417.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"d34f3535-a3e8-45af-9781-662ca20fbbe7","tls":false,"servername":"worker-curly-union-5dbc.firefox417.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-curly-union-5dbc.firefox417.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"2024free.firefox417.workers.dev","type":"vless","server":"2024free.firefox417.workers.dev","port":443,"uuid":"d34f3535-a3e8-45af-9781-662ca20fbbe7","tls":true,"servername":"2024free.firefox417.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2024free.firefox417.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -148,7 +148,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - worker-curly-union-5dbc.firefox417.workers.dev
+      - 2024free.firefox417.workers.dev
 
 rules:
 # 本地/局域网地址
