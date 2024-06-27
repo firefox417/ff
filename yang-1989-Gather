@@ -361,7 +361,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://yang-1989.eu.org/logo/中国天气.png" group-title="•其他「IPV6」",中国天气「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="•其他「IPV6」",减脂塑形增肌「IPV6」
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="•其他「IPV6」",咪咕全民热;练「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="•其他「IPV6」",JJ斗地主赛事「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -597,14 +597,36 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」21:00 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「NBA」07:40 2024年选秀大会首轮 解说
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」21:00 拉各斯常规挑战赛：男女单双打决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 1号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 比利时vs罗马尼亚 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 3号桌
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 比利时vs罗马尼亚 AVS3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 2号桌
 https://yang-1989.eu.org/Migu/4
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 4号桌
+https://yang-1989.eu.org/Migu/5
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 突尼斯常规挑战赛：单打1/16决赛、双打1/8决赛 1号桌解说
+https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 捷克vs土耳其 赛场原声
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 捷克vs土耳其 多屏
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 捷克vs土耳其 CCTV5+体育赛事
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 梁祥宇 董路 刘畅
+https://yang-1989.eu.org/Migu/10
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 石庆圣 李彦
+https://yang-1989.eu.org/Migu/11
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 赛场原声
+https://yang-1989.eu.org/Migu/12
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 陈凯冬
+https://yang-1989.eu.org/Migu/13
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 AVS3
+https://yang-1989.eu.org/Migu/14
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」",「欧洲杯」02:30 小组赛 格鲁吉亚vs葡萄牙 CCTV5体育
+https://yang-1989.eu.org/Migu/15
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -740,7 +762,7 @@ https://yang-1989.eu.org/youtube/TVBSNEWS02
 #EXTINF:-1 tvg-id="YanG" tvg-name="三立新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",三立新聞
 https://yang-1989.eu.org/youtube/setnews
 #EXTINF:-1 tvg-id="YanG" tvg-name="三立iNEWS" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",三立 iNEWS
-https://yang-1989.eu.org/youtube/FoBfXvlOR6I
+https://yang-1989.eu.org/youtube/setinews
 #EXTINF:-1 tvg-id="YanG" tvg-name="东森新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",東森新聞
 https://yang-1989.eu.org/youtube/newsebc
 #EXTINF:-1 tvg-id="YanG" tvg-name="东森财经新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",東森財經新聞
@@ -1015,6 +1037,14 @@ https://yang-1989.eu.org/tv/bjws
 https://yang-1989.eu.org/tv/hbws
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="•港澳台「壹」",翡翠台
 http://php.jdshipin.com:8880/ub.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="•港澳台「壹」",翡翠台
+https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://yang-1989.eu.org/logo/凤凰中文.png" group-title="•港澳台「壹」",鳳凰衛視·中文
+https://z02.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://yang-1989.eu.org/logo/凤凰资讯.png" group-title="•港澳台「壹」",鳳凰衛視·資訊
+https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://yang-1989.eu.org/logo/凤凰香港.png" group-title="•港澳台「壹」",鳳凰衛視·香港
+https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://yang-1989.eu.org/logo/星河台.png" group-title="•港澳台「壹」",星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://yang-1989.eu.org/logo/TVBPlus.png" group-title="•港澳台「壹」",TVB Plus
