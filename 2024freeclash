@@ -86,7 +86,7 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"2024free.firefox417.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"4ca76a54-11dd-4756-a3f5-18b355ece114","tls":false,"servername":"2024free.firefox417.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2024free.firefox417.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"20240928.firefox417.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"4ca76a54-11dd-4756-a3f5-18b355ece114","tls":false,"servername":"20240928.firefox417.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"20240928.firefox417.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"2024wang.firefox418.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"dbb2b511-86b6-4e7a-98f8-951fb9ae9774","tls":false,"servername":"2024wang.firefox418.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2024wang.firefox418.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
@@ -94,7 +94,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: ♻️ 自动选择
     type: url-test
@@ -102,7 +102,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: 🌍 国外媒体
     type: select
@@ -110,28 +110,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
   - name: 🎯 全球直连
     type: select
@@ -155,7 +155,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 2024free.firefox417.workers.dev
+      - 20240928.firefox417.workers.dev
       - 2024wang.firefox418.workers.dev
 
 rules:
