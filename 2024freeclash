@@ -87,7 +87,7 @@ dns:
 
 proxies:
   - {"name":"20240928.firefox417.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"4ca76a54-11dd-4756-a3f5-18b355ece114","tls":false,"servername":"20240928.firefox417.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"20240928.firefox417.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"20240928.firefox418.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"dbb2b511-86b6-4e7a-98f8-951fb9ae9774","tls":false,"servername":"20240928.firefox418.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"20240928.firefox418.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"20240928.firefox418.workers.dev","type":"vless","server":"www.whatismyip.com","port":2082,"uuid":"4ca76a54-11dd-4756-a3f5-18b355ece114","tls":false,"servername":"20240928.firefox418.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"20240928.firefox418.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
